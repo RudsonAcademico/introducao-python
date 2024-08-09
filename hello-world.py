@@ -1,2 +1,3 @@
-print('Olá Imundo!')
+print('Olá')
 # Não Virarei do Job ( ° n ° )
+print('Imundo!')
